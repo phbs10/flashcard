@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia",
+    'Geografia',
     'Quantos fusos tem no mundo',
     'sao 14 fusos horarios'
 )
