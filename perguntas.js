@@ -5,55 +5,55 @@ criaCartao(
 )
 
 criaCartao(
-    'Título 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Ed Fisica',
+    'Qual o jogador com mais cestas de 3 pontos na historia',
+    'Sthepen Curry'
 )
 
 criaCartao(
-    'Título 3',
-    'Pergunta 3',
-    'Resposta 3'
+    'Ed Fisica',
+    'Qual o maior medalista olimpico da historia',
+    'Michael Phelps'
 )
 
 criaCartao(
-    'Título 4',
-    'Pergunta 4',
-    'Resposta 4'
+    'Geografia",
+    'Quantos fusos tem no mundo',
+    'sao 14 fusos horarios'
 )
 
 criaCartao(
-    'Título 5',
-    'Pergunta 5',
-    'Resposta 5'
+    'Geografia',
+    'A linha do equador atravessa quantos paises',
+    '13 paises'
 )
 
 criaCartao(
-    'Título 6',
-    'Pergunta 6',
-    'Resposta 6'
+    'Historia',
+    'Quem descobriu o Brasil',
+    'Pedro alvares cabral'
 )
 
 criaCartao(
-    'Título 7',
-    'Pergunta 7',
-    'Resposta 7'
+    'Portugues',
+    'oque precisa ter em uma redaçao',
+    ' introdução, desenvolvimento e conclusão.'
 )
 
 criaCartao(
-    'Título 8',
-    'Pergunta 8',
-    'Resposta 8'
+    'Portugues',
+    'Qual a funçao da virgula',
+    'A vírgula marca uma pausa de pequena duração'
 )
 
 criaCartao(
-    'Título 9',
-    'Pergunta 9',
-    'Resposta 9'
+    'Matematica',
+    'Quanto e 5 elevado a 4',
+    '625'
 )
 
 criaCartao(
-    'Título 10',
-    'Pergunta 10',
-    'Resposta 10'
+    'Quimica',
+    'oque e um neutron',
+    'Os nêutrons são partículas subatômicas neutras, isto é, sem carga elétrica, que são encontradas no núcleo dos átomos, juntamente com os prótons'
 )
