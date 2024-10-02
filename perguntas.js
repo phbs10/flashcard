@@ -1,7 +1,7 @@
 criaCartao(
-    'Título 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Ed.Fisica',
+    'Oque e impedimento?',
+    'quando o atacante esta a frente do ultimo defensor da equipe oponente'
 )
 
 criaCartao(
